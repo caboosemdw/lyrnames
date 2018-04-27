@@ -1,20 +1,18 @@
 /* rank css for caboosemdw */
-/* <i class=caboy>XX</i><i class=cabot>Antipedal Triangle</i><link rel=stylesheet href=https://bit.ly/2Jy9RIq> */
+/* <i class=caboy>[XX]</i> <i class=cabot> Antipedal Triangle</i><link rel=stylesheet href=> */
 
 i.caboy { 
-font-style: normal;
-color: #ffff00;
-}
-i.caboy::before { content: "["; }
-i.caboy::after { content: "] "; }
-
-i.cabot {
-font-style: normal;
+  font-style: normal;
   color: #ffff00;
 }
 
-div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color:#ffff00 !important;  font-family: Comic Sans MS, Verdana, Arial; }
-div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color:#ffff00 !important; font-family: Comic Sans MS, Verdana, Arial; }
+i.cabot {
+  font-style: normal;
+  color: #ffff00;
+}
+
+/* for guild chat */
+div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color: #ffff00 !important;  font-family: Comic Sans MS, Verdana, Arial; }
 
 /* for officer chat */
-div.chatline span[style*="color:#338833"] [href*="caboosemdw"] .chatname { color:#ffff00 !important; font-family: Comic Sans MS, Verdana, Arial; }
+div.chatline span[style*="color:#338833"] [href*="caboosemdw"] .chatname { color: #ffff00 !important; font-family: Comic Sans MS, Verdana, Arial; }

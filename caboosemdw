@@ -1,5 +1,5 @@
 /* rank css for caboosemdw */
-/* <i class=caboy>XX</i><i class=cabot>Antipedal Triangle</i><link rel=stylesheet href=https://bit.ly/2HzutzE> */
+/* <i class=caboy>XX</i><i class=cabot>Antipedal Triangle</i><link rel=stylesheet href=https://bit.ly/2HvXnoi> */
 
 i.caboy { 
 font-style: normal;
@@ -10,7 +10,7 @@ i.caboy::after { content: "] "; }
 
 i.cabot {
 font-style: normal;
-  color: #ff0;
+  color: #ffff00;
 }
 
 div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color:#ffff00 !important;  font-family: Comic Sans MS, Verdana, Arial; }

@@ -1,0 +1,21 @@
+/* rank css for caboosemdw */
+/* <i class=caboy>XX</i><i class=cabot></i><link rel=stylesheet href=> */
+
+i.caboy { 
+font-style: normal;
+color: #ff0;
+}
+i.caboy::before { content: "["; }
+i.caboy::after { content: "] "; }
+
+i.cabot {
+font-style: normal;
+  color: #ff0;
+	content: "Antipedal Triangle";
+}
+
+div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color:#ff0 !important;  font-family: Comic Sans MS, Verdana, Arial; }
+div.chatline span[style*="color:#33CC33"] [href*="caboosemdw"] .chatname { color:#ff0 !important; font-family: Comic Sans MS, Verdana, Arial; }
+
+/* for officer chat */
+div.chatline span[style*="color:#338833"] [href*="caboosemdw"] .chatname { color:#ff0 !important; font-family: Comic Sans MS, Verdana, Arial; }

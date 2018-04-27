@@ -3,7 +3,7 @@
 
 i.caboy { 
 font-style: normal;
-color: #ff0;
+color: #ffff00;
 }
 i.caboy::before { content: "["; }
 i.caboy::after { content: "] "; }
